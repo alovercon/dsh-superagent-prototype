@@ -16,6 +16,8 @@ Setup has many steps, so an agent does it with you. Ask your coding agent:
 
 It asks one short question at a time, shows the full plan once, and then installs and configures everything. [SETUP.md](SETUP.md) is what it follows.
 
+The service script is Unix-oriented; on Windows, run dsh-superagent in WSL or a Linux environment.
+
 ## Documentation
 
 Read the numbered documents in order; each builds only on the ones before it.
